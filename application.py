@@ -10,8 +10,8 @@ def home():
         <head>
             <title>Beanstalk App</title>
         </head>
-        <body>
-            <h1>🚀 Hello from AWS Elastic Beanstalk which deployed using CodePipeline</h1>
+        <body bgcolor="#f0f0f0" style="font-family: Arial, sans-serif; text-align: center; padding-top: 50px;">
+            <h1>🚀 Hello from AWS Elastic Beanstalk which deployed using CodePipeline on all env</h1>
             <p>Your Flask app is running successfully on port 80!</p>
         </body>
     </html>
