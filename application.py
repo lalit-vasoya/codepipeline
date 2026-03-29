@@ -11,7 +11,7 @@ def home():
             <title>Beanstalk App</title>
         </head>
         <body>
-            <h1>🚀 Hello from AWS Elastic Beanstalk</h1>
+            <h1>🚀 Hello from AWS Elastic Beanstalk which deployed using CodePipeline</h1>
             <p>Your Flask app is running successfully on port 80!</p>
         </body>
     </html>
